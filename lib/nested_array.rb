@@ -30,6 +30,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   organic = ORGANIC_PRODUCE
   conventional = CONVENTIONAL_PRODUCE
+  fridge = 
 end
 
 def matrix_lookup(matrix, row, column)
